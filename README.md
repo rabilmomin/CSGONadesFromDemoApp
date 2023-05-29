@@ -3,8 +3,10 @@
 
 
 ## Demonstration video
+
+
 <div align="center">
-  <video src="https://github.com/rabilmomin/CSGONadesFromDemoApp/assets/43860323/d4a762ee-f490-4208-9da3-89f16fc6ca9c" width="400" />
+  <video src="https://github.com/rabilmomin/CSGONadesFromDemoApp/assets/43860323/47861e99-b578-4f3a-a1eb-c095c14f25aa" width="800" />
 </div>
 
 ## Acknowledgements
